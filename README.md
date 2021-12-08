@@ -15,3 +15,10 @@ En total, tenemos ocho datasets distintos relacionados entre sí, que combinarem
 ## Formato
 El estudio fue realizado íntegramente en Jupyter Notebook sobre Anaconda 3, y los datos están tanto en formato CSV como en TXT.
 
+## Herramientas utilizadas
+Todo el notebook ha sido escrito en Python 3, y se han utilizado las siguientes librerías:
+
+- Pandas para transformación y manipulación de datos
+- Numpy para realizar operaciones matemáticas
+- Matplotlib y Seaborn para visualizaciones
+- re para expresiones regulares
